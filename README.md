@@ -1,8 +1,11 @@
-# portfolio
+INDEPENDENT PORTFOLIO
 
-deveolper portfolio is the project
-author name --- BRIAN NYANCHOGA
-description of project ---- BASIC DEVELOPER PORTFOLIO
-project setup instructions --- HTML ,CSS
-link to live site on GitHub Pages --- https://github.com/carti21/portfolio
-copyright and license information ---MIT
+By: BRIAN NYANCHOGA
+
+This is an Independent Portfolio demonstrating basic proficiency in JavaScript, jQuery, Git, HTML, Bootstrap and  CSS.
+
+WEBSITE ON 
+
+https://github.com/kentbrian/portfolio.git
+
+MIT License. Copyright 2017.ALL RIGHTS RESERVED
